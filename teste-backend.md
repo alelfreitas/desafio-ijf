@@ -15,13 +15,15 @@
 - utilização do framework
 - documentação e testes
 
-## A base deve estar em docker dentro do projeto
-## O projeto pode estar em docker
-## Crie as seeds e migrations da base
-## Documente a entrega utilizando arquivos MD com o roteiro de utilização e o que julgar necessário explicar 
+```
+A base deve estar em docker dentro do projeto
+O projeto pode estar em docker
+Crie as seeds e migrations da base
+Documente a entrega utilizando arquivos MD com o roteiro de utilização e o que julgar necessário explicar
+Utilização de monorepo será considerado um diferencial
+```
 
 Cada um desses itens tem uma pontuação individual, o que significa que mesmo que não consiga realizar todo o desenvolvimento, será considerado o que for entregue.
-Inclusão de testes no código melhoram a pontuação na avaliação. 
 
 # Contexto do projeto:
 
@@ -40,7 +42,7 @@ Um texto, ou um arquivo (pdf, xlsx, docx, pptx) ou um link.
 O professor consegue ver todos os alunos com acesso ao curso e quantas aulas do total eles visualizaram.
 O professor pode aprovar um aluno, CONTANTO QUE esse aluno tenha assistido a 100% das aulas daquele curso.
 
-O aluno consegue visualizar os cursos e aulas e somente dos cursos aos quais ele tiver sido cadastrado.
+O aluno consegue visualizar os cursos e aulas somente dos cursos aos quais ele tiver sido cadastrado.
 Cada aula que o aluno visualizar é registrada no sistema vinculada ao seu usuário.
 
 O aluno consegue ver seu status no curso:
