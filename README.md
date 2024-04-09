@@ -7,5 +7,6 @@ Lembrando que caso realize os dois, ambos devem estar "conversando".
 
 Boa sorte!
 
-- [Teste de Backend](teste-backend.md)
-- [Teste de Frontend](teste-frontend.md)
+- [Backend](teste-backend.md)
+- [Frontend](teste-frontend.md)
+- [Infra](teste-infra.md)
