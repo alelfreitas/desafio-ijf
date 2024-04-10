@@ -27,7 +27,7 @@ A aplicação utiliza cache e eventos.
 
 A aplicação ainda não possui domínio. 
 
-Apresente uma proposta incluíndo a esteira DevOps, as ferramentas da nuvem e o esquema de utilização dessas ferramentas desde o acesso do usuário.
+Apresente uma proposta incluíndo a esteira DevOps, a proposta de login dos usuários, as ferramentas da nuvem e o esquema de utilização dessas ferramentas desde o acesso do usuário.
 Inclua uma descrição doque sera feito nos períodos de pico de cada plataforma.
 Planeje uma forma de visualizaçao de logs facilitada para os desenvolvedores.
 Descreva um planejamento dos passos de implantação.
