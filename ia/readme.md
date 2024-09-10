@@ -10,3 +10,9 @@ Você deve baixar o vídeo `burger-trim.mp4` e desenvolver uma aplicação que u
   - A média de tempo em que cada hambúrguer passa pela esteira e cai na cesta; 
 
 Suba a sua aplicação no github e retorne com o link para o projeto.
+
+- Será considerado diferencial se as informações forem apresentadas em uma tela;
+- Maior diferencial se for apresentado na tela uma timeline com os valores em cada tempo do vídeo;
+
+Além das bibliotecas utilizadas e boa organização de código, será analisado também as boas praticas e estrutura isolada de execução.
+(pode utilizar docker ou venv)
